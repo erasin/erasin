@@ -9,7 +9,7 @@
 
 - 🌱 目前正在学习 **RUST** && **BEVY**
 - 👯 当前失业希望找到关于 **rust**, **golang** 或 **php** 一份工作
-- - 超爱编辑器 [HELIX EDITOR](https://github.com/erasin/helix) 
+- 超爱编辑器 [HELIX EDITOR](https://github.com/erasin/helix) 
 - 终端爱好者
 
 
