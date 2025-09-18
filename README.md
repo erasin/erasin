@@ -8,7 +8,10 @@
 </p>
 
 - 🌱 目前正在学习 **RUST** && **BEVY**
-- 👯 当前失业希望找到关于 **rust**, **golang**, **php** 一份工作
+- 👯 当前失业希望找到关于 **rust**, **golang** 或 **php** 一份工作
+- - 超爱编辑器 [HELIX EDITOR](https://github.com/erasin/helix) 
+- 终端爱好者
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erasin&show_icons=true)](https://github.com/erasin/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erasin&layout=compact)](https://github.com/erasin)
